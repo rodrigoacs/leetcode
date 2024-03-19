@@ -2,6 +2,6 @@
 
 Some solutions of [LeetCode](https://leetcode.com/) problems 
 
-Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Created using [LeetSync](https://github.com/3ba2ii/LeetSync)
 
 
